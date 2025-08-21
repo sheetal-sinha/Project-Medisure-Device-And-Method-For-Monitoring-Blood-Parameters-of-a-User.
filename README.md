@@ -13,7 +13,7 @@ The proposed Medisure Care Plus device builds upon these existing systems, offer
 - **Data Security** – Encrypted storage and secure communication protocols  
 - **Healthcare Integration** – Seamless data sharing with healthcare providers  
 
-### ⚙️ Hardware Components  
+### <img src="https://github.com/user-attachments/assets/6672ee8c-15ed-4fb5-9cd5-63c04ac747c1" height="24px" style="vertical-align: bottom; margin-right: 10px;"> Hardware Components
 - **Arduino Nano and PCB board**: It is the foundation of the Device in which all the components are connected. Arduino IDE is the Software used to integrate the Hardware with the Software.
 - **MAX30100 Sensor** :This sensor is used in order to measure the SPO2 levels and the pulse levels of the user. It combines two LED’s, a photodetector, optimized optics and low-analog signals to measure pulse and SPO2 levels. It measures by measuring the absorbance of pulsing blood through a photodetector. 
 - **INA219 Current Sensor** : This is the current sensing module used in the Project and it is used in order to sense current and voltage inside the device .This module also helps in the I2C communication protocol used in the device.   
