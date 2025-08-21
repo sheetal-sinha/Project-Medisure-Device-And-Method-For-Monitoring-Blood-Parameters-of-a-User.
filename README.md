@@ -89,7 +89,7 @@ adb install medisure.apk
   Manipal Institute of Technology, Bengaluru  
   Manipal Academy of Higher Education, Manipal, India  
   Email ID: rutvik.mitblr2022@learner.manipal.edu  
-  Contact Number: +91 78873 67708  
+  Contact Number: +91 7887367708  
 
 - **Sheetal Sinha**  
   Undergraduate Student  
@@ -97,7 +97,7 @@ adb install medisure.apk
   Manipal Institute of Technology, Bengaluru  
   Manipal Academy of Higher Education, Manipal, India   
   Email ID: sheetal.mitblr2022@learner.manipal.edu  
-  Contact Number: +91 99620 08641  
+  Contact Number: +91 9962008641  
 
 - **Ankit Sarkar**  
   Undergraduate Student  
@@ -105,7 +105,7 @@ adb install medisure.apk
   Manipal Institute of Technology, Bengaluru  
   Manipal Academy of Higher Education, Manipal, India  
   Email ID: ankit3.mitblr2022@learner.manipal.edu  
-  Contact Number: +91 87008 79300  
+  Contact Number: +91 8700879300  
 
 
 
