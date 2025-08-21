@@ -1,4 +1,4 @@
-# 🏥Project Medisure : Device & Method for Monitoring Blood Parameters of a User
+# Patent IN24/2404 202441091887 Project Medisure : Device & Method for Monitoring Blood Parameters of a User
 ## 🌍 Welcome to Project Medisure! 
 ### 💡 Prior Art
 This initiative reflects our commitment to contributing meaningfully to the healthcare industry.
@@ -8,22 +8,68 @@ The proposed Medisure Care Plus device builds upon these existing systems, offer
 ### 🛠️ Key Features  
 - **Non-Invasive Multi-Parameter Monitoring** – Glucose, SpO₂, and pulse rate in one compact device  
 - **Cost-Effective** – Minimal maintenance, no frequent strip/sensor replacements  
-- **Portable & User-Friendly** – Finger-wearable design with simple replaceable battery  
+- **Portable & User-Friendly** – Finger-wearable design with integrated Wired Connection with mobile device for monitoring blood parameters 
 - **Continuous Real-Time Data** – Accurate insights enabling early intervention  
 - **Data Security** – Encrypted storage and secure communication protocols  
 - **Healthcare Integration** – Seamless data sharing with healthcare providers  
 
 ### ⚙️ Hardware Components  
-- Arduino Nano (core controller)  
-- MAX30100 Sensor (SpO₂ and pulse measurement)  
-- Glucose Sensor with enzyme-based strips  
-- INA219 Current Sensor for calibration  
-- Replaceable battery (ensuring uninterrupted monitoring)
+- **Arduino Nano and PCB board**: It is the foundation of the Device in which all the components are connected. Arduino IDE is the Software used to integrate the Hardware with the Software.
+- **MAX30100 Sensor** :This sensor is used in order to measure the SPO2 levels and the pulse levels of the user. It combines two LED’s, a photodetector, optimized optics and low-analog signals to measure pulse and SPO2 levels. It measures by measuring the absorbance of pulsing blood through a photodetector. 
+- **INA219 Current Sensor** : This is the current sensing module used in the Project and it is used in order to sense current and voltage inside the device .This module also helps in the I2C communication protocol used in the device.   
+- **Glucose Strip & Sensor** : This sensor is used to measure the glucose level of the user. It consists of a strip in which the blood sample of the patient will be inserted. The strip has chemical enzymes which react with the blood which the sensor catches. Based on this reading and with the help of the current sensor, the glucose reading is found.
+
+  
+  <img width="368" height="300" alt="image" src="https://github.com/user-attachments/assets/bc606175-640b-4f84-8e35-24c12a996498" />
+  
+  <img width="355" height="315" alt="image" src="https://github.com/user-attachments/assets/0b3dbc86-0289-4a6a-9ccc-c016c725afcc" />
+
+  
+### 📱 Mobile Application Features  
+- **User Authentication** – Secure sign-up and login functionality for personalized access  
+- **Dedicated Routes for Each Parameter** – Separate interfaces for monitoring Glucose, SpO₂, and Pulse data  
+- **Historical Data Tracking** – Storage and visualization of past health records for trend analysis  
+- **Profile Customization** – Manage patient details with editable profiles  
+- **AI-Powered Insights** – Integrated early Type 2 Diabetes detection model that continuously learns from user-specific IoT device data (Ongoing Feature)
   
 ## 👨‍🔬 Inventors  
-- **Dr. Megha P. Arakeri** – Professor, MIT Bengaluru  
-- **Rutvik Avinash Barbhai** – Undergraduate, MIT Bengaluru  
-- **Sheetal Sinha** – Undergraduate, MIT Bengaluru  
-- **Ankit Sarkar** – Undergraduate, MIT Bengaluru  
+- **Dr. Megha P. Arakeri**  
+  Professor  
+  Computer Science and Engineering Department  
+  Manipal Institute of Technology, Bengaluru  
+  Manipal Academy of Higher Education, Manipal, India  
+  Nationality: Indian  
+  Email ID: megha.arakeri@manipal.edu  
+  Contact Number: +91 90089 77922
+  
+- **Rutvik Avinash Barbhai**  
+  Undergraduate Student  
+  Computer Science and Engineering Department  
+  Manipal Institute of Technology, Bengaluru  
+  Manipal Academy of Higher Education, Manipal, India  
+  Nationality: Indian  
+  Email ID: rutvik.mitblr2022@learner.manipal.edu  
+  Contact Number: +91 7887367708
+  
+- **Sheetal Sinha**  
+  Undergraduate Student  
+  Computer Science and Engineering Department  
+  Manipal Institute of Technology, Bengaluru  
+  Manipal Academy of Higher Education, Manipal, India  
+  Nationality: Indian  
+  Email ID: sheetal.mitblr2022@learner.manipal.edu  
+  Contact Number: +91 9962008641
+  
+- **Ankit Sarkar**  
+  Undergraduate Student  
+  Computer Science and Engineering Department  
+  Manipal Institute of Technology, Bengaluru  
+  Manipal Academy of Higher Education, Manipal, India  
+  Nationality: Indian  
+  Email ID: ankit3.mitblr2022@learner.manipal.edu  
+  Contact Number: +91 8700879300  
+
+
+✨ *Medisure Care Plus is a transformative step towards accessible, accurate, and patient-friendly healthcare monitoring.*  
 
 
