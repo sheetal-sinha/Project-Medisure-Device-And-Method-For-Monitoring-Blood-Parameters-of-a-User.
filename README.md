@@ -31,6 +31,19 @@ The proposed Medisure Care Plus device builds upon these existing systems, offer
 - **Historical Data Tracking** – Storage and visualization of past health records for trend analysis  
 - **Profile Customization** – Manage patient details with editable profiles  
 - **AI-Powered Insights** – Integrated early Type 2 Diabetes detection model that continuously learns from user-specific IoT device data (Ongoing Feature)
+
+### 📥 How to Access the Release  
+
+You can download and test the **Medisure Health App (APK)** in two ways:  
+
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/rutvikbarbhai/Project-Medisure-Device-And-Method-For-Monitoring-Blood-Parameters-of-a-User?color=blue&label=Latest%20Release&style=for-the-badge)](https://github.com/rutvikbarbhai/Project-Medisure-Device-And-Method-For-Monitoring-Blood-Parameters-of-a-User/releases/latest)  
+
+- 👉 **Direct Download**: [Click here to download the APK](https://github.com/rutvikbarbhai/Project-Medisure-Device-And-Method-For-Monitoring-Blood-Parameters-of-a-User/releases/latest/download/medisure.apk)  
+- 👉 Or go to the [Releases Page](https://github.com/rutvikbarbhai/Project-Medisure-Device-And-Method-For-Monitoring-Blood-Parameters-of-a-User/releases/latest) to view all assets and details.  
+
+⚠️ **Note**: The APK is for testing purposes only. To install on Android, enable *Install from Unknown Sources* in your device settings.  
+
+---
   
 ## 👨‍🔬 Inventors  
 - **Dr. Megha P. Arakeri**  
