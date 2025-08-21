@@ -1,3 +1,2 @@
 # Medisure-App
-medisure-title.svg
-Welcome to the Medisure Health App
+Welcome to Project Medisure
