@@ -73,6 +73,39 @@ adb install medisure.apk
 ```
 ⚠️ Make sure USB Debugging is enabled on your Android device if you’re installing via adb.
 
+## 👨‍🔬 Inventors  
+- **Dr. Megha P. Arakeri**  
+  Professor  
+  Computer Science and Engineering Department  
+  Manipal Institute of Technology, Bengaluru  
+  Manipal Academy of Higher Education, Manipal, India  
+  Email ID: megha.arakeri@manipal.edu  
+  Contact Number: +91 90089 77922  
+
+- **Rutvik Avinash Barbhai**  
+  Undergraduate Student  
+  Computer Science and Engineering Department  
+  Manipal Institute of Technology, Bengaluru  
+  Manipal Academy of Higher Education, Manipal, India  
+  Email ID: rutvik.mitblr2022@learner.manipal.edu  
+  Contact Number: +91 78873 67708  
+
+- **Sheetal Sinha**  
+  Undergraduate Student  
+  Computer Science and Engineering Department  
+  Manipal Institute of Technology, Bengaluru  
+  Manipal Academy of Higher Education, Manipal, India   
+  Email ID: sheetal.mitblr2022@learner.manipal.edu  
+  Contact Number: +91 99620 08641  
+
+- **Ankit Sarkar**  
+  Undergraduate Student  
+  Computer Science and Engineering Department  
+  Manipal Institute of Technology, Bengaluru  
+  Manipal Academy of Higher Education, Manipal, India  
+  Email ID: ankit3.mitblr2022@learner.manipal.edu  
+  Contact Number: +91 87008 79300  
+
 
 
   
