@@ -38,7 +38,6 @@ The proposed Medisure Care Plus device builds upon these existing systems, offer
   Computer Science and Engineering Department  
   Manipal Institute of Technology, Bengaluru  
   Manipal Academy of Higher Education, Manipal, India  
-  Nationality: Indian  
   Email ID: megha.arakeri@manipal.edu  
   Contact Number: +91 90089 77922
   
@@ -47,7 +46,6 @@ The proposed Medisure Care Plus device builds upon these existing systems, offer
   Computer Science and Engineering Department  
   Manipal Institute of Technology, Bengaluru  
   Manipal Academy of Higher Education, Manipal, India  
-  Nationality: Indian  
   Email ID: rutvik.mitblr2022@learner.manipal.edu  
   Contact Number: +91 7887367708
   
@@ -56,7 +54,6 @@ The proposed Medisure Care Plus device builds upon these existing systems, offer
   Computer Science and Engineering Department  
   Manipal Institute of Technology, Bengaluru  
   Manipal Academy of Higher Education, Manipal, India  
-  Nationality: Indian  
   Email ID: sheetal.mitblr2022@learner.manipal.edu  
   Contact Number: +91 9962008641
   
@@ -65,7 +62,6 @@ The proposed Medisure Care Plus device builds upon these existing systems, offer
   Computer Science and Engineering Department  
   Manipal Institute of Technology, Bengaluru  
   Manipal Academy of Higher Education, Manipal, India  
-  Nationality: Indian  
   Email ID: ankit3.mitblr2022@learner.manipal.edu  
   Contact Number: +91 8700879300  
 
