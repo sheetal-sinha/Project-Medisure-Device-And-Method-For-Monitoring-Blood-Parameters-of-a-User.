@@ -36,7 +36,8 @@ The proposed Medisure Care Plus device builds upon these existing systems, offer
 
 You can download and test the **Medisure Health App (APK)** in two ways:  
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/rutvikbarbhai/Project-Medisure-Device-And-Method-For-Monitoring-Blood-Parameters-of-a-User?color=blue&label=Latest%20Release&style=for-the-badge)](https://github.com/rutvikbarbhai/Project-Medisure-Device-And-Method-For-Monitoring-Blood-Parameters-of-a-User/releases/latest)
+[![Latest Release v1.0.0](https://img.shields.io/badge/release-v1.0.0-blue?style=for-the-badge)](https://github.com/rutvikbarbhai/Project-Medisure-Device-And-Method-For-Monitoring-Blood-Parameters-of-a-User./releases/download/v1.0.0/Medisure.apk)
+
 
 
 - 👉 **Direct Download**: [Click here to download the APK](https://github.com/rutvikbarbhai/Project-Medisure-Device-And-Method-For-Monitoring-Blood-Parameters-of-a-User./releases/download/v1.0.0/Medisure.apk)
