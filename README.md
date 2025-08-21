@@ -1,4 +1,4 @@
-# 🏥Project Medisure : Patent IN24/2404 202441091887
+# 🏥Project Medisure : Patent 202441091887
 ## 🌍 Welcome to Project Medisure! 
 ### Prior Art
 This initiative reflects our commitment to contributing meaningfully to the healthcare industry.
