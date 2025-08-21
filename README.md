@@ -47,7 +47,7 @@ You can download and test the **Medisure Health App (APK)** in two ways:
 
 ---
 
-## ⚙️ Setup Instructions  
+## <img src="https://github.com/user-attachments/assets/6672ee8c-15ed-4fb5-9cd5-63c04ac747c1" height="24px" style="vertical-align:bottom;"> Setup Instructions  
 
 Follow the steps below to set up and test **Project Medisure** on your system:  
 
