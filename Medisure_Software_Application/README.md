@@ -1,8 +1,7 @@
 ## <img src="https://github.com/user-attachments/assets/f3dcee8e-e008-457a-97fb-d3848b425713" height="30px" style="vertical-align:text-bottom;"> How to Navigate the Repository  
 - `medisure/` → Flutter project source code  
 - `README.md` → You are here (project guide)
-                                                                                                                                 
-## <img src="https://github.com/user-attachments/assets/a2325857-03bd-4c42-a39e-dff9086f468b" alt="Project Structure" width="40"/> Project Structure
+## <img src="https://github.com/user-attachments/assets/847b75fa-3dcf-4ec8-acfb-4702827eeea7" height="30" style="vertical-align:text-bottom;"/>Project Structure 
 ```bash
 project-name/
 ├── 📁 assets/           # Images, icons, static files
@@ -16,7 +15,7 @@ project-name/
 ├── pubspec.yaml         # Project configuration & dependencies
 └── README.md            # Project documentation
 ```
-## <img src="https://github.com/user-attachments/assets/1aafab50-1305-47c4-87ab-40a9d64f3067" alt="contribution gif" width="40"/> Contribution Guide  
+## <img src="https://github.com/user-attachments/assets/1aafab50-1305-47c4-87ab-40a9d64f3067" alt="contribution gif" width="35"/> Contribution Guide  
 1️⃣ **Fork the repository**
 Click on the **<img src="https://img.icons8.com/ios-filled/20/000000/code-fork.png" alt="fork icon"/>** **(fork)** button at the top-right corner of this repository to create a copy under your GitHub account.  
 2️⃣ **Clone your fork**  
