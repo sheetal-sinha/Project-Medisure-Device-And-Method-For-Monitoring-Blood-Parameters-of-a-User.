@@ -10,6 +10,8 @@
 5. Push to branch (`git push origin feature-name`)  
 6. Open a Pull Request  
 
-## 📬 Stay Updated  
+## <img src="https://github.com/user-attachments/assets/233e326b-1812-456b-86f8-27599a0a88bf" alt="stay updated gif" width="40"/> Stay Updated 
+
 This README will be updated regularly as the project progresses.  
+
 
