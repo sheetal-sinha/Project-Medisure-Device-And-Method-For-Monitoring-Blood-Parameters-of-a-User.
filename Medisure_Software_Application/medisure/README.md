@@ -1,6 +1,3 @@
-# 🩺 Medisure – Device and Method for Monitoring Blood Parameters of a User  
----
-
 ## <img src="https://github.com/user-attachments/assets/f3dcee8e-e008-457a-97fb-d3848b425713" height="30px" style="vertical-align:text-bottom;"> Repository Structure  
 - `medisure/android` → This directory contains **native Android project files** required to build and run the Flutter app on Android devices. It includes Gradle build scripts, manifests, and platform-specific integrations.  
 - `medisure/assets` → This directory stores **application resources** such as images, icons, fonts, and other media used across the project for User Interface & User Experience (UI/UX). 
