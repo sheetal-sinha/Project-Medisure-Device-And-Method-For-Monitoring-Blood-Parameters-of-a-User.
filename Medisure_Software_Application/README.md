@@ -2,7 +2,7 @@
 - `medisure/` → Flutter project source code  
 - `README.md` → You are here (project guide)  
 
-## 🤝 Contribution Guide  
+## <img src="https://github.com/user-attachments/assets/1aafab50-1305-47c4-87ab-40a9d64f3067" alt="contribution gif" width="40"/> Contribution Guide  
 1. Fork the repository  
 2. Clone your fork  
 3. Create a feature branch (`git checkout -b feature-name`)  
