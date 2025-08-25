@@ -1,3 +1,5 @@
+<div align="left">
+
 ## <img src="https://github.com/user-attachments/assets/f3dcee8e-e008-457a-97fb-d3848b425713" height="30px" style="vertical-align:text-bottom;"> How to Navigate the Repository  
 - `medisure/` → Flutter project source code  
 - `README.md` → You are here (project guide)  
@@ -10,8 +12,8 @@
 5. Push to branch (`git push origin feature-name`)  
 6. Open a Pull Request  
 
-## <img src="https://github.com/user-attachments/assets/233e326b-1812-456b-86f8-27599a0a88bf" alt="stay updated gif" width="40"/> Stay Updated 
+## <img src="https://github.com/user-attachments/assets/233e326b-1812-456b-86f8-27599a0a88bf" alt="stay updated gif" width="40"/> Stay Updated  
 
 This README will be updated regularly as the project progresses.  
 
-
+</div>
