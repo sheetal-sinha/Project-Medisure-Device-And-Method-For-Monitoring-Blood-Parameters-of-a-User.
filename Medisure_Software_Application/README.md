@@ -1,4 +1,4 @@
-## 📂 How to Navigate the Repo  
+## ### <img src="https://github.com/user-attachments/assets/f3dcee8e-e008-457a-97fb-d3848b425713" height="20px" style="vertical-align:text-bottom;"> How to Navigate the Repo  
 - `medisure/` → Flutter project source code  
 - `README.md` → You are here (project guide)  
 
