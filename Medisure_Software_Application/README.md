@@ -32,6 +32,21 @@ git push origin feature-name
 - Provide a clear title and description of the changes.
 - Submit the Pull Request for review 🚀.
 
-## <img src="https://github.com/user-attachments/assets/233e326b-1812-456b-86f8-27599a0a88bf" alt="stay updated gif" width="40"/> Stay Updated  
+## <img src="https://github.com/user-attachments/assets/233e326b-1812-456b-86f8-27599a0a88bf" alt="stay updated gif" width="40"/>Accessing the Application  
+You can access the corresponding application for this project by visiting the link provided below:  
+### 📥 How to Access the Release  
+You can download and test the **Medisure Health App (APK)** in two ways:  
+
+[![Latest Release v1.0.0](https://img.shields.io/badge/release-v1.0.0-blue?style=for-the-badge)](https://github.com/rutvikbarbhai/Project-Medisure-Device-And-Method-For-Monitoring-Blood-Parameters-of-a-User./releases/download/v1.0.0/Medisure.apk)
+
+
+
+- 👉 **Direct Download**: [Click here to download the APK](https://github.com/rutvikbarbhai/Project-Medisure-Device-And-Method-For-Monitoring-Blood-Parameters-of-a-User./releases/download/v1.0.0/Medisure.apk)
+- 👉 Or go to the [Releases Page](https://github.com/rutvikbarbhai/Project-Medisure-Device-And-Method-For-Monitoring-Blood-Parameters-of-a-User./releases/tag/v1.0.0) to view all assets and details.  
+
+<img src="https://github.com/user-attachments/assets/64abffeb-9a67-4e47-a3ec-69036aa3a343" height="30px" style="position: bottom;"> **Note**: The APK is for testing purposes only. To install on Android, enable *Install from Unknown Sources* in your device settings.  
+
+
+## <img src="https://github.com/user-attachments/assets/cdf0c0db-ffba-4353-9c40-da391fa70779" alt="stay updated gif" height="35px" style="vertical-align:text-bottom;"> Stay Updated
 This README will be updated regularly as the project progresses.  
   
