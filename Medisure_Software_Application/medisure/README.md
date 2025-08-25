@@ -7,28 +7,10 @@
 - `README.md` → You are here (project guide).   
 
 ---
-
-## 🚀 Features  
-- 📊 **Monitor blood parameters** through connected Medisure device  
-- 🔐 **Secure login & profile management**  
-- 🔗 **Real-time data transfer** via cable/device integration  
-- 📱 **Cross-platform support** (Android, iOS, Web)  
-- 💾 **Local + Cloud storage support**  
-
----
-
-## 🛠️ Tech Stack  
-- **Frontend:** Flutter (Dart)  
-- **Backend:** Firebase / SQLite integration  
-- **Device Connection:** V3 cable for Medisure hardware  
-- **Platform Support:** Android, iOS, Web  
-
----
-
-## 🏗️ Getting Started  
-
-### 1️⃣ Clone the Repository  
-```bash
-git clone https://github.com/<your-username>/Medisure_Software_Application.git
-cd Medisure_Software_Application/medisure
-
+## <img src="https://github.com/user-attachments/assets/9f0497b8-78b3-4d64-8e7f-ace469c4fe70" alt="features icon" width="35" style="vertical-align:middle;"/> **Features** 
+- **Android (`android/`)** → 📱 Native Android integration with Gradle support.
+- **Assets (`assets/`)** → 🎨 Resource management (images, icons, fonts).  
+- **iOS (`ios/`)** → 🍏 Native iOS integration with Xcode support.
+- **Lib (`lib/`)** → ⚙️ Core business logic, UI screens, widgets & backend integrations.  
+- **Web (`web/`)** → 🌐 Web deployment support with HTML/CSS/JS wrappers.  
+- **General** → 🔐 Secure login & profile management, 💾 Local + Cloud storage, 🔗 Real-time data transfer via Medisure device.  
