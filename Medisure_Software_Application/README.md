@@ -16,8 +16,11 @@ project-name/
 └── README.md            # Project documentation
 ```
 ## <img src="https://github.com/user-attachments/assets/1aafab50-1305-47c4-87ab-40a9d64f3067" alt="contribution gif" width="35"/> Contribution Guide  
-1️⃣ **Fork the repository**
-Click on the **<img src="https://img.icons8.com/ios-filled/20/000000/code-fork.png" alt="fork icon"/>** **(fork)** button at the top-right corner of this repository to create a copy under your GitHub account.  
+
+1️⃣ **Fork the repository**  
+Click on the **<img src="https://img.icons8.com/ios-filled/20/000000/code-fork.png" alt="fork icon"/> (fork)** button at the top-right corner of this repository to create a copy under your GitHub account.
+
+
 2️⃣ **Clone your fork**  
 Clone your forked repository to your local machine.  
 ```bash
