@@ -5,7 +5,6 @@
 - `medisure/lib/services` → Holds **backend service integrations and configurations** such as API calls and Firebase/Firestore setup. Example: firestore_options.dart manages Firebase/Firestore initialization and configuration.  
 - `medisure/lib/utils` → Provides **helper functions, constants, and reusable logic** for cleaner code and consistency. Example: UI_helper.dart centralizes UI helpers like text styles, paddings, or form fields.  
 - `medisure/lib/widgets` → Stores **custom reusable widgets** that promote a component-based architecture. Examples include buttons, input fields, loaders, and cards.  
-- `README.md` → Local documentation specific to the `lib/` directory, helping developers quickly understand its structure and conventions.  
 - `main.dart` → The **entry point** of the Flutter app. Initializes the app, sets up themes, manages routing, and defines the root widget. Example tasks: configuring MaterialApp, applying global themes, and handling navigation.  
 
 ## ✨ Features – `medisure/lib/`
