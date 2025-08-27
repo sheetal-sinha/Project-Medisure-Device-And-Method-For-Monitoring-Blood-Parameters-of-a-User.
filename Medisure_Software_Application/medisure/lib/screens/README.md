@@ -11,13 +11,13 @@ Each screen represents a distinct feature or flow for the user, handling interac
 
 `medisure/lib/screens/levels.dart` : Displays **user levels, progress, or achievements**. Could also include health insights based on cumulative readings. 
 
-`medisure/lib/screens/login_screen.dart` :Handles **user authentication**. Provides login functionality with email/password or cloud integration.  
+`medisure/lib/screens/login_screen.dart` : Handles **user authentication**. Provides login functionality with email/password or cloud integration.  
 
 `medisure/lib/screens/past_records_screen.dart`: Allows users to **view historical health records**. Displays trends, previous test results, and medical history.
 
 `medisure/lib/screens/profile_edit_screen.dart`: Enables users to **edit and update their profile information**. Example: name, age, contact info, medical details. 
 
-`medisure/lib/screens/signup_screen.dart` :Handles **new user registration**.Collects user details and creates a secure account in Firestore.  
+`medisure/lib/screens/signup_screen.dart` : Handles **new user registration**.Collects user details and creates a secure account in Firestore.  
 
 `medisure/lib/screens/status.dart`: Displays the **current health status**. Could summarize key vitals like SpO2, glucose, BP, etc.  
 
