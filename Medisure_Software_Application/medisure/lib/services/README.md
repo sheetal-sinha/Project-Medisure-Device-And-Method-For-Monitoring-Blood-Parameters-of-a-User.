@@ -13,7 +13,7 @@ It contains all Firebase/Firestore configurations, service handlers, and record 
 
 `medisure/lib/services/firestore_record.dart`: Defines **data models for Firestore records**. Maps Firestore documents to Dart objects for easier parsing and usage in the app. Example: Converts Firestore user health stats into a Dart object that can be used in UI screens.  
 
-## ✨ Features – `medisure/lib/services/`
+## <img src="https://github.com/user-attachments/assets/9f0497b8-78b3-4d64-8e7f-ace469c4fe70" alt="features icon" width="35" style="vertical-align:middle;"/> Features 
 
 - ☁️ **Cloud Integration** → Connects the app to Firebase/Firestore for real-time data handling.  
 - 🔄 **Data Sync** → Enables automatic synchronization between local app state and cloud records.  
@@ -23,6 +23,7 @@ It contains all Firebase/Firestore configurations, service handlers, and record 
 ## <img src="https://github.com/user-attachments/assets/1aafab50-1305-47c4-87ab-40a9d64f3067" alt="contribution gif" width="35"/> Contribution Guide  
 
 1️⃣ **Fork the repository**  
+
 Click on the **<img src="https://img.icons8.com/ios-filled/20/000000/code-fork.png" alt="fork icon"/> (fork)** button at the top-right corner of this repository to create a copy under your GitHub account.
 
 
