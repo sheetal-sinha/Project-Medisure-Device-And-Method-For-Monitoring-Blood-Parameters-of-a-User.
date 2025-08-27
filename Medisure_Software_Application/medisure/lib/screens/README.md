@@ -1,3 +1,41 @@
+# 📂 medisure/lib/screens/
+
+The `screens/` directory contains all **UI screens (pages)** of the Medisure application.  
+Each screen represents a distinct feature or flow for the user, handling interaction, navigation, and data visualization.  
+---
+
+## 📄 Files Overview
+`medisure/lib/screens/Spo2_screen.dart` : Displays the **SpO2 (Oxygen Saturation) levels** of the user.Pulls real-time data from the Medisure device or Firestore.
+
+`medisure/lib/screens/forgot_password_screen.dart`: Screen for **password recovery**. Allows users to reset their credentials via email or OTP flow.  
+
+`medisure/lib/screens/glucose_screen.dart` : Shows **blood glucose levels**. Useful for diabetic users to monitor real-time glucose readings.
+
+`medisure/lib/screens/levels.dart` : Displays **user levels, progress, or achievements**. Could also include health insights based on cumulative readings. 
+
+`medisure/lib/screens/login_screen.dart` :Handles **user authentication**. Provides login functionality with email/password or cloud integration.  
+
+`medisure/lib/screens/past_records_screen.dart`: Allows users to **view historical health records**. Displays trends, previous test results, and medical history.
+
+`medisure/lib/screens/profile_edit_screen.dart`: Enables users to **edit and update their profile information**. Example: name, age, contact info, medical details. 
+
+`medisure/lib/screens/signup_screen.dart` :Handles **new user registration**.Collects user details and creates a secure account in Firestore.  
+
+`medisure/lib/screens/status.dart`: Displays the **current health status**. Could summarize key vitals like SpO2, glucose, BP, etc.  
+
+`medisure/lib/screens/test_status.dart`: Shows **results of the latest test performed**. Example: after a SpO2 or glucose test, results are displayed here.  
+
+---
+
+## ✨ Features – `medisure/lib/screens/`
+
+- 🖥️ **User Interaction** → Each screen manages a unique part of the app’s workflow.  
+- 🔗 **Navigation** → Smooth transitions between login, signup, test results, and records.  
+- 📊 **Health Visualization** → Screens dedicated to monitoring and tracking vitals.  
+- 👤 **Personalization** → Profile management and editable user data.  
+
+---
+
 ### 📱 App Navigation Storyboard 
 ```bash
 🚀 App Launch
