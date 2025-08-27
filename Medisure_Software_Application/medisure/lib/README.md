@@ -7,7 +7,7 @@
 - `medisure/lib/widgets` → Stores **custom reusable widgets** that promote a component-based architecture. Examples include buttons, input fields, loaders, and cards.  
 - `main.dart` → The **entry point** of the Flutter app. Initializes the app, sets up themes, manages routing, and defines the root widget. Example tasks: configuring MaterialApp, applying global themes, and handling navigation.  
 
-## ✨ Features – `medisure/lib/`
+### ✨ Features – `medisure/lib/`
 
 - **Models (`medisure/lib/models/`)** → 📑 Consistent entity management (users, health stats, etc.)  
 - **Screens (`medisure/lib/screens/`)** → 🖥️ Interactive app flows (levels, progress tracking, dashboards)  
