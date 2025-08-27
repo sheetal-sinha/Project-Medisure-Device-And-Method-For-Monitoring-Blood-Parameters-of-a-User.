@@ -3,7 +3,7 @@ The `screens/` directory contains all **UI screens (pages)** of the Medisure app
 Each screen represents a distinct feature or flow for the user, handling interaction, navigation, and data visualization.  
 
 ## 📄 Files Overview
-`medisure/lib/screens/Spo2_screen.dart` : Displays the **SpO2 (Oxygen Saturation) levels** of the user.Pulls real-time data from the Medisure device or Firestore.
+`medisure/lib/screens/Spo2_screen.dart` : Displays the **SpO2 (Oxygen Saturation) levels** of the user. Pulls real-time data from the Medisure device or Firestore.
 
 `medisure/lib/screens/forgot_password_screen.dart`: Screen for **password recovery**. Allows users to reset their credentials via email or OTP flow.  
 
