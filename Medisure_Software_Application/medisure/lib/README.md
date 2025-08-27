@@ -1,4 +1,4 @@
-## <img src="https://github.com/user-attachments/assets/f3dcee8e-e008-457a-97fb-d3848b425713" height="30px" style="vertical-align:text-bottom;"> Repository Structure – `medisure/lib/`
+## <img src="https://github.com/user-attachments/assets/f3dcee8e-e008-457a-97fb-d3848b425713" height="30px" style="vertical-align:text-bottom;"> Repository Structure – medisure/lib/
 
 - `medisure/lib/models` → Defines the **data models** used across the app. Structures application data and ensures consistent handling of entities. Example: user_model.dart manages user-related information, parsing, and interactions.  
 - `medisure/lib/screens` → Contains all the **UI screens (pages)** of the app. Each screen represents a distinct feature or flow. Example: levels.dart displays user levels, progress, or health-related data.  
