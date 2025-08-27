@@ -8,12 +8,12 @@
 - `README.md` → Local documentation specific to the `lib/` directory, helping developers quickly understand its structure and conventions.  
 - `main.dart` → The **entry point** of the Flutter app. Initializes the app, sets up themes, manages routing, and defines the root widget. Example tasks: configuring MaterialApp, applying global themes, and handling navigation.  
 
-## ✨ Features
+## ✨ Features – `medisure/lib/`
 
-- 📊 **Health Tracking** – Monitor user progress, levels, and health-related stats.  
-- 🔐 **Authentication & User Management** – Secure login, registration, and user profile handling.  
-- ☁️ **Cloud Integration** – Firebase/Firestore support for real-time data storage and retrieval.  
-- 🎨 **Reusable UI Components** – Consistent design with custom widgets for buttons, forms, and cards.  
-- ⚡ **Optimized Performance** – Centralized utilities for smooth and efficient app execution.  
-- 🛠️ **Scalable Architecture** – Clean separation of models, services, utils, and widgets for maintainability.  
-
+- **Models (`medisure/lib/models/`)** → 📑 Consistent entity management (users, health stats, etc.)  
+- **Screens (`medisure/lib/screens/`)** → 🖥️ Interactive app flows (levels, progress tracking, dashboards)  
+- **Services (`medisure/lib/services/`)** → ☁️ Real-time backend integration (Firebase, Firestore, APIs)  
+- **Utils (`medisure/lib/utils/`)** → 🛠️ Centralized helpers (UI styles, constants, form validation)  
+- **Widgets (`medisure/lib/widgets/`)** → 🎨 Reusable UI components (buttons, cards, loaders)  
+- **Main (`medisure/lib/main.dart`)** → 🚀 App entry point with themes, routing, and navigation  
+- **General** → 🔐 Secure login & profile management, 💾 Local + Cloud storage, 🔗 Real-time data sync with Medisure device  
