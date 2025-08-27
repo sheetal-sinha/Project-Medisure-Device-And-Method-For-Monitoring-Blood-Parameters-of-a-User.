@@ -15,6 +15,38 @@ project-name/
 ├── pubspec.yaml         # Project configuration & dependencies
 └── README.md            # Project documentation
 ```
+### 📱 App Navigation Storyboard 
+```bash
+🚀 App Launch
+      |
+      v
+🔑 Login Screen ---------> 📝 Signup Screen
+      |                        |
+      |                        v
+      |                 👤 Account Created 
+      v
+🔒 Forgot Password Screen (optional)
+      |
+      v
+📊 Status Screen ---> 🫁 SpO2 Screen ---> 🔄 Refresh Data 
+      |                     |
+      |                     v
+      |                 💾 Save Data 
+      |
+      v
+📊 Status Screen ---> 🍬 Glucose Screen ---> 🔄 Refresh Data 
+      |                      |
+      |                      v
+      |                  💾 Save Data 
+      v
+📜 History ---> 📂 Past Records
+      |
+      v
+📊 Status Screen ---> 👤 Profile Edit Screen ---> 📤 Upload Photo
+                              |
+                              v
+                        💾 Save Changes 
+```
 ## <img src="https://github.com/user-attachments/assets/1aafab50-1305-47c4-87ab-40a9d64f3067" alt="contribution gif" width="35"/> Contribution Guide  
 
 1️⃣ **Fork the repository**  
