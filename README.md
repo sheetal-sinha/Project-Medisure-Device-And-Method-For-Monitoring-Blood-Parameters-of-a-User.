@@ -108,8 +108,8 @@ adb install medisure.apk
   Contact Number: +91 8700879300
 
   ## 📂 Repository Info
-- **Created on:** Aug 15, 2025  
-- **Last updated:** Aug 28, 2025  
+- **Created on:** 2024-01-30
+- **Last updated:** 2025-08-28
 
 
 
