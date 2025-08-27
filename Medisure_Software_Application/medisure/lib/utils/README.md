@@ -4,7 +4,7 @@
  
 `globals.dart` Stores **global variables and constants** used across multiple screens or services. Ensures centralized management of key values such as **user states, theme configurations, or API constants**.  
 
-### ✨ Features – `medisure/lib/utils/`
+## <img src="https://github.com/user-attachments/assets/9f0497b8-78b3-4d64-8e7f-ace469c4fe70" alt="features icon" width="35" style="vertical-align:middle;"/> Features – `medisure/lib/utils/`
 
 - 🛠️ **UI Consistency** → Unified text styles, spacing, and reusable UI helpers.  
 - 🌍 **Global Configurations** → Centralized constants/variables accessible throughout the app.  
