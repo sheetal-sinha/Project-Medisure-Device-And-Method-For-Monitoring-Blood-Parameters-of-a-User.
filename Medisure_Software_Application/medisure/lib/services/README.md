@@ -1,4 +1,4 @@
-# 📂 medisure/lib/services/
+# <img src="https://github.com/user-attachments/assets/f3dcee8e-e008-457a-97fb-d3848b425713" height="30px" style="vertical-align:text-bottom;">  medisure/lib/services/
 
 The `services/` directory manages **backend integrations and data services** for the Medisure application.  
 It contains all Firebase/Firestore configurations, service handlers, and record management logic that connect the app to real-time cloud data.  
