@@ -105,7 +105,12 @@ adb install medisure.apk
   Manipal Institute of Technology, Bengaluru  
   Manipal Academy of Higher Education, Manipal, India  
   Email ID: ankit3.mitblr2022@learner.manipal.edu  
-  Contact Number: +91 8700879300  
+  Contact Number: +91 8700879300
+
+  ## 📂 Repository Info
+- **Created on:** Aug 15, 2025  
+- **Last updated:** Aug 28, 2025  
+
 
 
 
