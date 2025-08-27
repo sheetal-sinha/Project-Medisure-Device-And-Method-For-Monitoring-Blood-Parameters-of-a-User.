@@ -1,4 +1,4 @@
-# 📂 medisure/lib/screens/
+# <img src="https://github.com/user-attachments/assets/f3dcee8e-e008-457a-97fb-d3848b425713" height="30px" style="vertical-align:text-bottom;"> medisure/lib/screens/
 
 The `screens/` directory contains all **UI screens (pages)** of the Medisure application.  
 Each screen represents a distinct feature or flow for the user, handling interaction, navigation, and data visualization.  
