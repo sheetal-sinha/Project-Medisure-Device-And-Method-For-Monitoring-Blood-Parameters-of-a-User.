@@ -46,38 +46,6 @@ You can download and test the **Medisure Health App (APK)** in two ways:
 <img src="https://github.com/user-attachments/assets/64abffeb-9a67-4e47-a3ec-69036aa3a343" height="30px" style="position: bottom;"> **Note**: The APK is for testing purposes only. To install on Android, enable *Install from Unknown Sources* in your device settings.  
 
 ---
-### 📱 App Navigation Storyboard 
-```bash
-🚀 App Launch
-      |
-      v
-🔑 Login Screen ---------> 📝 Signup Screen
-      |                        |
-      |                        v
-      |                 👤 Account Created 
-      v
-🔒 Forgot Password Screen (optional)
-      |
-      v
-📊 Status Screen ---> 🫁 SpO2 Screen ---> 🔄 Refresh Data 
-      |                     |
-      |                     v
-      |                 💾 Save Data 
-      |
-      v
-📊 Status Screen ---> 🍬 Glucose Screen ---> 🔄 Refresh Data 
-      |                      |
-      |                      v
-      |                  💾 Save Data 
-      v
-📜 History ---> 📂 Past Records
-      |
-      v
-📊 Status Screen ---> 👤 Profile Edit Screen ---> 📤 Upload Photo
-                              |
-                              v
-                        💾 Save Changes 
-```
 
 ## <img src="https://github.com/user-attachments/assets/6672ee8c-15ed-4fb5-9cd5-63c04ac747c1" height="24px" style="vertical-align:bottom;"> Setup Instructions  
 
