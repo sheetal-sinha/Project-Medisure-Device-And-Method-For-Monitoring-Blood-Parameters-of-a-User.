@@ -107,9 +107,8 @@ adb install medisure.apk
   Email ID: ankit3.mitblr2022@learner.manipal.edu  
   Contact Number: +91 8700879300
 
-  ## 📂 Repository Info
-- **Created on:** 2024-01-30
-- **Last updated:** 2025-08-28
+## 📂 Repository Info
+**Created on:** 2024-01-30
 
 
 
