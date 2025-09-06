@@ -1,5 +1,5 @@
 # Patent IN24/2404 202441091887 Project Medisure : Device & Method for Monitoring Blood Parameters of a User
-## 🌍 Welcome to Project Medisure! 
+## <img src="https://github.com/user-attachments/assets/b83b271d-fafe-41be-bf84-7f74ccb310d1" alt="logo" height="22px">  Welcome to Project Medisure! 
 ### 💡 Prior Art
 This initiative reflects our commitment to contributing meaningfully to the healthcare industry.
 Over the past decade, non-invasive health monitoring has seen remarkable technological advancements, with numerous devices developed to improve patient comfort, usability, and the accuracy of health data. However, many existing solutions continue to face challenges, particularly in terms of long-term usability, patient compliance, and comprehensive health monitoring.
